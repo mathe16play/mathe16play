@@ -22,14 +22,16 @@
 
 <body>
     <header>
-        <h1>Vai ser uma imagem zoologico aqui</h1>
+        <h1>Vai ser uma imagem zoologico aqui</h1>![evento-224675-banner](https://github.com/mathe16play/mathe16play/assets/166019778/afb7d7c6-934d-416d-82a2-1bc8dd62c9c9)
+
         
     </header>
 </body>
 
 <body>
     <header>
-        <h1>Vai ser uma imagem zoologico aqui</h1>
+        <h1>Vai ser uma imagem girafa aqui</h1>![girafas](https://github.com/mathe16play/mathe16play/assets/166019778/5f381e3d-8787-49a2-8d89-862104062624)
+
         <ul>
 
         </ul>
@@ -39,7 +41,8 @@
 
 <body>
     <header>
-        <h1>Vai ser uma imagem elefante aqui</h1>
+        <h1>Vai ser uma imagem elefante aqui</h1>![elefante-africano](https://github.com/mathe16play/mathe16play/assets/166019778/c6570828-f40a-4d57-a206-cd637f73b0c3)
+
         <ul>
             <li>Escola</li>
             <li>Estudante</li>
@@ -67,7 +70,8 @@ header {
 </head>
 <body>
     <header>
-        <h1>Vai ser uma imagem tigre aqui</h1>
+        <h1>Vai ser uma imagem tigre aqui</h1>![tigre](https://github.com/mathe16play/mathe16play/assets/166019778/02e58048-094c-4ffe-b6c8-26d0096c41c2)
+
         <ul>
             <li>Escola</li>
             <li>Estudante</li>
