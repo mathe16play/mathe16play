@@ -44,8 +44,8 @@
         <h1>Vai ser uma imagem elefante aqui</h1>![elefante-africano](https://github.com/mathe16play/mathe16play/assets/166019778/c6570828-f40a-4d57-a206-cd637f73b0c3)
 
         <ul>
-            <li>Escola</li>
-            <li>Estudante</li>
+            <li>bem vindo ao zoologicio</li>
+            <li>eu sou o matheuzin</li>
         </ul>
     </header>
 </body>
